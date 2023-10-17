@@ -1,24 +1,30 @@
-body{
-
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
 }
 
-
-header{
-    background-color: black nbh;
-    background-color: aqua;
-    font: 20px;
-    color: brown;
-    width: 100px;
-    height: 50px;
+header {
+    background-color: orange;
+    color: yellow;
+    padding: 10px;
+    text-align: center;
 }
 
+.container {
+    text-align: center;
+    margin: 20px;
+}
 
+.image {
+    display: inline-block;
+    margin: 10px;
+}
 
-.imagem{
-   
-    width: 300px;
-    height:300px;
-    padding: 10px 10px;
-
+footer {
+    background-color: orange;
+    color: yellow;
+    padding: 30px;
+    text-align: center;
 }
